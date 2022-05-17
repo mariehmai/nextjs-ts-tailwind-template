@@ -1,4 +1,12 @@
+# nextjs-ts-tailwind-template
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+It adds a few handy tools and can be used as a template:
+
+- [Tailwind CSS](https://tailwindcss.com/): a utility-first CSS framework
+- [ESLint](https://eslint.org/): find and fix problem in JS/TS code
+- [Prettier](https://prettier.io/): Code formatter
 
 ## Getting Started
 
