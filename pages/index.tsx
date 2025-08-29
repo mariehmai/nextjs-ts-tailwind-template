@@ -1,8 +1,9 @@
 import type { NextPage } from 'next';
 import Head from 'next/head';
-import { Grid } from '@components/Grid';
-import { Footer } from '@components/Footer';
+
 import { CardLink } from '@components/CardLink';
+import { Footer } from '@components/Footer';
+import { Grid } from '@components/Grid';
 
 const Home: NextPage = () => (
   <div className="px-8">
